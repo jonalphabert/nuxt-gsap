@@ -68,6 +68,18 @@
           </div>
         </div>
       </div>
+      <div class="relative py-12">
+        <h3 class="uppercase text-4xl font-bold absolute top-6 -right-2 tracking-wide">Save The Date</h3>
+        <div class="py-12">
+          <h4 class="mb-4 text-lg font-semibold text-center">Pemberkatan</h4>
+          <div class="flex text-2xl mx-auto justify-center gap-8">
+            <p class="text-center">24 Sep 2025</p>
+            <div class="w-1 h-full bg-red-500 px-2"></div>
+            <p class="text-center">12.00 WIB</p>
+          </div>
+        </div>
+
+      </div>
     </div>
   </div>
 </template>
